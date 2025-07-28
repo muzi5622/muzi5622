@@ -48,7 +48,7 @@ With a hands-on approach to ethical hacking and cloud-based AI automation, I aim
 - 📦 **Packet Sniffer** – Built with Scapy for packet capture  
 - 📋 **Wi-Fi Device Logger** – **Python-based script to monitor and log all connected devices on your local network. Ideal for admins, home users, and anyone tracking device activity.**
 
-> 🔗 [Explore All Repositories](https://github.com/muzi5622)
+> 🔗 [Explore All Repositories](https://github.com/muzi5622?tab=repositories)
 
 ---
 
