@@ -42,7 +42,6 @@ With a hands-on approach to ethical hacking and cloud-based AI automation, I aim
 
 ### 🚧 Projects
 
-- 📡 **WiFi Scanner** – Discover nearby wireless networks  
 - 🧥 **MAC Address Changer** – Spoof your identity  
 - 🗣️ **Text to Speech** – Turn text into speech using Windows TTS  
 - 🔄 **ARP Spoofing Tool** – For MITM network testing  
@@ -71,11 +70,10 @@ With a hands-on approach to ethical hacking and cloud-based AI automation, I aim
 ### 🧠 TryHackMe Progress
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3516652" style='border:none;'></iframe>
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/muzi56.png" alt="Your Image Badge" />
 </p>
 
----
+------
 
 ### 📊 GitHub Stats
 
@@ -84,4 +82,4 @@ With a hands-on approach to ethical hacking and cloud-based AI automation, I aim
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzi5622&layout=compact&theme=tokyonight" />
 </p>
 
----
+
