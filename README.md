@@ -55,7 +55,7 @@ With a hands-on approach to ethical hacking and cloud-based AI automation, I aim
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://muzi5622-portfolio.vercel.app/">
+  <a href="https://www.0xmuzamil.tech/">
     <img src="https://img.shields.io/badge/My%20Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/m-muzammal-99m/">
