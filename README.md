@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋 I’m <span style="color:#1E90FF;">Muzamil</span></h1>
 
 <p align="center">
-  🚀 Cybersecurity • 🐧 Linux • 🤖 AI Automation • ⚙️ Ethical Hacking<br>
-  <i>Turning curiosity into code and automation into impact.</i>
+  ⚡ Obsessed with AIOps — where AI thinks, DevOps builds, SysOps runs, ML learns, and Security defends<br>
+  <i>🧠 Addicted to learning, obsessed with creating, focused on impact.</i>
 </p>
 
 ---
@@ -42,7 +42,7 @@ I aim to build **secure and intelligent solutions** for real-world challenges.
 <td width="100%">
 
 🎓 **Diploma in AIOps (RQF Level 6)**  
-📍 *Alnafi (2025–2026)*  
+📍 *Alnafi International College (2025–2026)*  
 🧠 Focus: **Cloud Cybersecurity, DevOps, SysOps, AI & ML**  
 📘 Equivalent to a **UK Bachelor’s Degree**  
 
@@ -67,9 +67,23 @@ I aim to build **secure and intelligent solutions** for real-world challenges.
 
 These are some of the tools and technologies I have worked with across different projects, labs, and environments:
 
-#### ☁️ Cloud & Virtualization  
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+#### 🔐 Security & Pentesting Tools  
+![Nessus](https://img.shields.io/badge/Nessus-009CDE?style=for-the-badge&logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logo=hashnode&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-330F63?style=for-the-badge&logo=ghost&logoColor=white)
+![Evilginx](https://img.shields.io/badge/Evilginx-800000?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Ettercap](https://img.shields.io/badge/Ettercap-39477F?style=for-the-badge&logo=etherpad&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=for-the-badge&logo=superuser&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-F29111?style=for-the-badge&logo=sqlite&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-2C2C32?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white)
 
 #### ⚙️ DevOps & Automation  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -99,27 +113,13 @@ These are some of the tools and technologies I have worked with across different
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Tails OS](https://img.shields.io/badge/Tails%20OS-56347C?style=for-the-badge&logo=tails&logoColor=white)
 
-#### 🔐 Security & Pentesting Tools  
-![Nessus](https://img.shields.io/badge/Nessus-009CDE?style=for-the-badge&logo=tenable&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrack-ng&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-9B59B6?style=for-the-badge&logo=hashnode&logoColor=white)
-![Gophish](https://img.shields.io/badge/Gophish-330F63?style=for-the-badge&logo=ghost&logoColor=white)
-![Evilginx](https://img.shields.io/badge/Evilginx-800000?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Ettercap](https://img.shields.io/badge/Ettercap-39477F?style=for-the-badge&logo=etherpad&logoColor=white)
-![Bettercap](https://img.shields.io/badge/Bettercap-FF0000?style=for-the-badge&logo=superuser&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-F29111?style=for-the-badge&logo=sqlite&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-2C2C32?style=for-the-badge&logo=gnubash&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white)
-
 #### 🌐 Web & Servers  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+#### ☁️ Cloud & Virtualization  
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 #### 📊 Monitoring & Logging  
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
@@ -168,6 +168,9 @@ These are some of the tools and technologies I have worked with across different
   <a href="https://www.0xmuzamil.tech/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://0xmuzamil.dev/">
+    <img src="https://img.shields.io/badge/✍️ Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/m-muzammal-99m/">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -189,3 +192,9 @@ These are some of the tools and technologies I have worked with across different
   <img src="https://github-readme-stats.vercel.app/api?username=muzi5622&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzi5622&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muzi5622&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+
