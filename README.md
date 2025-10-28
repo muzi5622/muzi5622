@@ -137,8 +137,10 @@ These are some of the tools and technologies I have worked with across different
   <table>
     <tr>
       <td align="center" width="33%">
-        <h3>🧥 MAC Address Changer</h3>
-        <p>Spoof your device identity with a simple Python script.</p>
+        <h3>🐝 Honeypot Threat Intelligence Report</h3>
+        <p>
+          Deployed a Heralding honeypot on AWS.
+        </p>
       </td>
       <td align="center" width="33%">
         <h3>🗣️ Text to Speech</h3>
@@ -167,6 +169,7 @@ These are some of the tools and technologies I have worked with across different
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me  
 
