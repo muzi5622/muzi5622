@@ -84,6 +84,8 @@ These are some of the tools and technologies I have worked with across different
 ![sqlmap](https://img.shields.io/badge/sqlmap-F29111?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-2C2C32?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![CISSP](https://img.shields.io/badge/CISSP-003C46?style=for-the-badge&logo=(ISC)²&logoColor=white)
+![CCSP](https://img.shields.io/badge/CCSP-00263E?style=for-the-badge&logo=(ISC)²&logoColor=white)
 
 #### ⚙️ DevOps & Automation  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -99,6 +101,7 @@ These are some of the tools and technologies I have worked with across different
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+
 
 #### 👨‍💻 Programming & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -123,13 +126,21 @@ These are some of the tools and technologies I have worked with across different
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-#### ☁️ Cloud & Virtualization  
+#### ☁️ Cloud & Virtualization 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+
 
 #### 📊 Monitoring & Logging  
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ## 🚧 Projects  
 
