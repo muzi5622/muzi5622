@@ -20,8 +20,8 @@
 - 🐧 **Linux Systems (RHEL, Kali, Ubuntu)**  
 - 🔐 **Ethical Hacking & Penetration Testing**  
 - ⚙️ **Python & Bash Scripting**  
-- 🔄 **DevOps & CI/CD (In Progress)**  
-- 🤖 **AI for Security & Automation**  
+- 🔄 **DevOps & CI/CD **  
+- 🤖 **AI for Security & Automation (In Progress)**  
 
 ⚡ With a hands-on approach to hacking and automation,  
 I aim to build **secure and intelligent solutions** for real-world challenges.  
