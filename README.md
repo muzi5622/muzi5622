@@ -219,15 +219,3 @@ These are some of the tools and technologies I have worked with across different
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzi5622&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzi5622&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muzi5622&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-
