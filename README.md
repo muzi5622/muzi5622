@@ -198,10 +198,10 @@ These are some of the tools and technologies I have worked with across different
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.0xmuzamil.tech/">
+  <a href="https://muzi5622.vercel.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://0xmuzamil.dev/">
+  <a href="https://0xmuzamil.vercel.app/">
     <img src="https://img.shields.io/badge/✍️ Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/m-muzammal-99m/">
