@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋 I’m <span style="color:#1E90FF;">Muzamil</span></h1>
+<h1 align="center">Hi there 👋 I’m <span style="color:#1E90FF;">Muzammal</span></h1>
 
 <p align="center">
-  ⚡ Obsessed with AIOps — where AI thinks, DevOps builds, SysOps runs, ML learns, and Security defends<br>
+  🔐 BS Cyber Security Undergraduate | Bug Bounty Hunter | Offensive Security & AIOps<br>
   <i>🧠 Addicted to learning, obsessed with creating, focused on impact.</i>
 </p>
 
@@ -14,7 +14,7 @@
 <tr>
 <td align="center" width="100%">
   
-💻 I'm a **Cybersecurity, Linux, and AI Automation Enthusiast**  
+💻 I'm a **BS Cyber Security student at PAF-IAST**, focused on **Web Application Security, Vulnerability Research, Linux, and AI-driven Security Automation**.  
 
 ✨ Skilled in:  
 - 🐧 **Linux Systems (RHEL, Kali, Ubuntu)**  
@@ -41,6 +41,15 @@ I aim to build **secure and intelligent solutions** for real-world challenges.
 <tr>
 <td width="100%">
 
+🎓 **BS Cyber Security — Undergraduate (1st Semester)**  
+📍 *Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology (PAF-IAST), 2026–Present*  
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
 🎓 **Diploma in AIOps (RQF Level 6)**  
 📍 *Alnafi International College (2025–2026)*  
 🧠 Focus: **Cloud Cybersecurity, DevOps, SysOps, AI & ML**  
@@ -59,6 +68,38 @@ I aim to build **secure and intelligent solutions** for real-world challenges.
 </tr>
 </table>
 
+</div>
+
+---
+
+## 🏅 Recognition & Responsible Disclosure
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <h3>🇵🇰 PKCERT Cyber Patriot Recognition & Certificate</h3>
+        <p>
+          Received a <b>PKCERT Cyber Patriot certificate</b> from Pakistan's
+          <b>National Cyber Emergency Response Team (PKCERT)</b>
+          for responsibly reporting a <b>High-severity Broken Access Control vulnerability</b>.
+        </p>
+        <p>
+          🏅 <b>Recognition:</b> PKCERT Cyber Patriot<br>
+          📜 <b>Certificate ID:</b> <code>PKC-CPVRO-26-0715</code><br>
+          ✅ <b>Public Recognition Status:</b> Acknowledged
+        </p>
+        <p>
+          <a href="https://vdp.pkcert.gov.pk/verify-certificate"><b>🔐 Verify Certificate</b></a>
+          &nbsp;·&nbsp;
+          <a href="https://vdp.pkcert.gov.pk/public-dashboard"><b>🏅 Official Acknowledgment</b></a>
+          &nbsp;·&nbsp;
+          <a href="https://muzi5622.vercel.app/"><b>🌐 Portfolio</b></a>
+        </p>
+        <p><small>To verify, open the certificate verification page and enter the certificate ID above.</small></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -160,6 +201,25 @@ These are some of the tools and technologies I have worked with across different
 <p align="center">
   <table>
     <tr>
+      <td colspan="3" align="left">
+        <h3 align="center">🛡️ Cyber Threat Intelligence Platform (CTI)</h3>
+        <p>
+          Built an end-to-end <b>Cyber Threat Intelligence platform</b> to automate threat collection,
+          enrichment, analysis, executive reporting, and secure intelligence sharing.
+        </p>
+        <ul>
+          <li><b>Threat collection:</b> Aggregated OSINT feeds, including AlienVault OTX, URLhaus, RSS feeds, MITRE ATT&amp;CK, and honeypot telemetry.</li>
+          <li><b>AI-driven enrichment:</b> Used regex and a custom Transformer-based NER model to extract IOCs such as IP addresses, URLs, hashes, and CVEs.</li>
+          <li><b>Threat analysis:</b> Profiled attacker behavior and correlated intelligence using OpenCTI and Elasticsearch.</li>
+          <li><b>Decision support &amp; sharing:</b> Produced executive threat reports and supported STIX 2.1 / TAXII-style intelligence dissemination with TLP controls.</li>
+        </ul>
+        <p align="center">
+          <b>Tech:</b> OpenCTI · Python · Transformers · Elasticsearch · Docker · STIX/TAXII<br>
+          <a href="https://muzi5622.vercel.app/"><b>🌐 Explore on My Portfolio</b></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="33%">
         <h3>🐝 Honeypot Threat Intelligence Report</h3>
         <p>
@@ -204,7 +264,7 @@ These are some of the tools and technologies I have worked with across different
   <a href="https://0xmuzamil.vercel.app/">
     <img src="https://img.shields.io/badge/✍️ Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/m-muzammal-99m/">
+  <a href="https://www.linkedin.com/in/m-muzammal-muzi5622/">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:muzamil29876@gmail.com">
@@ -215,7 +275,7 @@ These are some of the tools and technologies I have worked with across different
 
 ## 🧠 TryHackMe Progress  
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/muzi56.png" alt="TryHackMe Badge"/>
+  <img src="https://cdn-images.tryhackme.com/public-profile/muzi56/badge-dark-9ad4cab56e2b.png" alt="muzi56's TryHackMe badge." width="400">
 </p>
 
 ---
